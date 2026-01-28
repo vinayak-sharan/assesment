@@ -1,5 +1,5 @@
 # German Invoice Extraction Agent
-
+## Note: _My GOOGLE_API_KEY_ is also uploaded for testing purposes. Please let me know after reviewing, so that it can be removed :) 
 A robust multi-agent system built with **LangGraph** and **Google Gemini** designed to extract structured data from German invoices. The system employs a workflow that includes extraction, automated auditing, and a human-in-the-loop fallback for low-confidence results.
 
 ## Features
@@ -66,3 +66,4 @@ This script compares predictions in `approved_invoices_donut.json` against `clea
 - **`orchestrator.py`**: Defines the Pydantic data models (`GermanInvoice`) and initializes the Gemini LLM.
 - **`invoice_agents.py`**: Contains the logic for the graph nodes: `extract_node`, `audit_node`, and `human_review_node`.
 - **`evaluate.py`**: Handles data normalization, Levenshtein distance calculation, and report generation.
+- **[Report](assesment/CloudFactory_report_reformatted.pdf)**: Detailed report covering the agentic workflow design, cost analysis, etc.
