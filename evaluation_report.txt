@@ -1,0 +1,986 @@
+Loaded 81 predictions and 97 ground truths.
+
+--- Evaluation for Item 0 ---
+Filename: ab89dc8d-1.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Paul Cheung          | Cheung               | 0.75
+invoice_number       | 1234                 | None                 | N/A (Missing GT)
+invoice_date         | 2030-07-29           | Datum:29.07.2030     | 0.38
+total_amount         | 7735.0               | Gesamtbetrag         | 0.0
+iban                 | DE12 3456 7890 123.. | AAICEXSS7POUANSIAO   | 0.1
+vendor_name          | None                 | 54321Munster         | 0.25
+company_address      | None                 | 12345Freiberg        | 0.12
+
+--- Evaluation for Item 1 ---
+Filename: 36f6332d-10.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Mikoko Ramen- & Su.. | Sushi-Bar            | 0.59
+invoice_number       | 1234                 | None                 | N/A (Missing GT)
+invoice_date         | 2030-09-27           | None                 | N/A (Missing GT)
+total_amount         | 878.22               | EC-Karte)            | 0.0
+iban                 | DE12 3456 7890 123.. | 90                   | 0.17
+vendor_name          | None                 | Main                 | 0.25
+company_address      | None                 | K8ln                 | 0.25
+
+--- Evaluation for Item 2 ---
+Filename: 04384c9b-100.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Musterfirma GmbH     | None                 | N/A (Missing GT)
+invoice_number       | RE-2017-MAI-11-000.. | None                 | N/A (Missing GT)
+invoice_date         | 2017-05-11           | 11.05.2017           | 0.5
+total_amount         | 327.25               | Rechnungsbetrag      | 0.0
+iban                 | DE19 1234 1234 123.. | 12                   | 0.17
+vendor_name          | None                 | Deutschland          | 0.13
+company_address      | None                 | 12345Musterstadt     | 0.1
+
+--- Evaluation for Item 3 ---
+Filename: a999e5bd-103.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | [Unternehmensname]   | rechnungsprogramm    | 0.42
+invoice_number       | 257                  | None                 | N/A (Missing GT)
+invoice_date         | 2021-07-21           | 21.07.2021           | 0.75
+total_amount         | 595.0                | 595,00€              | 0.89
+iban                 | [Bankkonto (IBAN)]   | None                 | N/A (Missing GT)
+vendor_name          | None                 | ID]                  | 0.0
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 4 ---
+Filename: 18546ba9-104.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | [Freiberufler]       | None                 | N/A (Missing GT)
+invoice_number       | 220                  | None                 | N/A (Missing GT)
+invoice_date         | 2021-07-12           | 12.07.2021           | 0.62
+total_amount         | 2465.68              | 2.465,68€            | 1.0
+iban                 | [Bankkonto (IBAN)]   | None                 | N/A (Missing GT)
+vendor_name          | None                 | [UmsatzteuerID)      | 0.12
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 5 ---
+Filename: ba30b225-105.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | easybill GmbH        | easybill"            | 0.8
+invoice_number       | 2019266021           | None                 | N/A (Missing GT)
+invoice_date         | 2020-02-05           | 05.02.2020           | 0.62
+total_amount         | 744.33               | None                 | N/A (Missing GT)
+iban                 | DE58 3007 0024 050.. | 944500               | 0.43
+vendor_name          | None                 | Germany              | 0.18
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 6 ---
+Filename: 6c96e629-106.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | [Unternehmensname]   | recmungsprogramm     | 0.44
+invoice_number       | 241                  | None                 | N/A (Missing GT)
+invoice_date         | 2021-07-17           | 17.07.2021           | 0.5
+total_amount         | 2156.0               | €                    | 0.0
+iban                 | [Bankkonto (IBAN)]   | None                 | N/A (Missing GT)
+vendor_name          | None                 | [UmsatzteuerID)      | 0.12
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 7 ---
+Filename: 3cef9894-107.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | [Unternehmensname]   | rechnungsprogramm    | 0.42
+invoice_number       | 311                  | None                 | N/A (Missing GT)
+invoice_date         | 2021-08-02           | None                 | N/A (Missing GT)
+total_amount         | 1820.7               | 1.820,70€            | 0.91
+iban                 | [Bankkonto (IBAN)]   | None                 | N/A (Missing GT)
+vendor_name          | None                 | [Telefon]            | 0.36
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 8 ---
+Filename: d123a11a-108.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | pixa                 | logoipsum"           | 0.15
+invoice_number       | 123                  | None                 | N/A (Missing GT)
+invoice_date         | 2019-12-02           | None                 | N/A (Missing GT)
+total_amount         | 3178.49              | 3.178,49€            | 1.0
+iban                 | DE07 1234 1234 123.. | 1234124124124122-B.. | 0.59
+vendor_name          | None                 | Deutschland          | 0.13
+company_address      | None                 | Deutschland          | 0.13
+
+--- Evaluation for Item 9 ---
+Filename: e1518bad-109.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Unternehmen Name o.. | Logo                 | 0.3
+invoice_number       | 49163336111          | None                 | N/A (Missing GT)
+invoice_date         | 2018-04-09           | None                 | N/A (Missing GT)
+total_amount         | 2675.0               | €2675,00             | 0.91
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | 916-934-7312         | 0.0
+company_address      | None                 | 77340                | 0.0
+
+--- Evaluation for Item 10 ---
+Filename: 198ecf6b-115.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | LIDL                 | LDL                  | 0.86
+invoice_number       | 081501301100911201.. | None                 | N/A (Missing GT)
+invoice_date         | 2019-11-09           | Oktober              | 0.0
+total_amount         | 12.56                | 20,21                | 0.25
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Bremen               | 0.2
+
+--- Evaluation for Item 11 ---
+Filename: ec60cbc0-116.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | LIDL                 | LADL                 | 0.75
+invoice_number       | 581439/06            | None                 | N/A (Missing GT)
+invoice_date         | 2021-11-13           | Oktober              | 0.0
+total_amount         | 3.73                 | 37,16                | 0.57
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Bremen               | 0.2
+
+--- Evaluation for Item 12 ---
+Filename: ada5da5a-118.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | LIDL                 | LDL                  | 0.86
+invoice_number       | 311359/04            | None                 | N/A (Missing GT)
+invoice_date         | 2021-11-27           | November             | 0.0
+total_amount         | 0.98                 | zahlen               | 0.0
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Bremen               | 0.2
+
+--- Evaluation for Item 13 ---
+Filename: 111fbb40-12.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Grafikdesign Betti.. | LADL                 | 0.14
+invoice_number       | 01234                | None                 | N/A (Missing GT)
+invoice_date         | 2023-08-23           | 13.11.21             | 0.29
+total_amount         | 430.0                | zahlen               | 0.0
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Bremen               | 0.2
+
+--- Evaluation for Item 14 ---
+Filename: d5207fd9-122.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | [Unternehmensname]   | LDL                  | 0.0
+invoice_number       | 233                  | None                 | N/A (Missing GT)
+invoice_date         | 2021-07-16           | November             | 0.0
+total_amount         | 1428.0               | 23,64                | 0.22
+iban                 | [Bankkonto (IBAN)]   | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Bremen               | 0.2
+
+--- Evaluation for Item 15 ---
+Filename: 6d7a02ec-123.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | DEMO COMPANY INC.    | LDL                  | 0.12
+invoice_number       | 2018-0006            | None                 | N/A (Missing GT)
+invoice_date         | 2018-04-12           | 27.11.21             | 0.57
+total_amount         | 214.09               | zahlen               | 0.0
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Bremen               | 0.2
+
+--- Evaluation for Item 16 ---
+Filename: 6a70449a-124.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Dein (Unternehmens.. | LADL                 | 0.08
+invoice_number       | 2018-0001            | None                 | N/A (Missing GT)
+invoice_date         | 2018-01-01           | Dezember             | 0.0
+total_amount         | 1386.05              | 26,96                | 0.2
+iban                 | DEXXXXXXXXXXXXXXXX.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Bremen               | 0.2
+
+--- Evaluation for Item 17 ---
+Filename: 51f1d93c-125.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | [Unternehmensname]   | None                 | N/A (Missing GT)
+invoice_number       | 233                  | None                 | N/A (Missing GT)
+invoice_date         | 2021-07-16           | 2023                 | 0.5
+total_amount         | 1428.0               | Gesamtsumme:         | 0.0
+iban                 | [Bankkonto (IBAN)]   | None                 | N/A (Missing GT)
+vendor_name          | None                 | Stadt                | 0.0
+company_address      | None                 | Stadt                | 0.0
+
+--- Evaluation for Item 18 ---
+Filename: de012268-126.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | DEMO COMPANY INC.    | None                 | N/A (Missing GT)
+invoice_number       | 2018-0006            | None                 | N/A (Missing GT)
+invoice_date         | 2018-04-12           | 21.12.21             | 0.57
+total_amount         | 214.09               | 25,86                | 0.22
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 19 ---
+Filename: c7298a24-127.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Dein (Unternehmens.. | recmungsprogramm     | 0.39
+invoice_number       | 2018-0001            | None                 | N/A (Missing GT)
+invoice_date         | 2018-01-01           | 16.07.2021           | 0.5
+total_amount         | 1386.05              | €                    | 0.0
+iban                 | DEXXXXXXXXXXXXXXXX.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | [UmsatzteuerID)      | 0.12
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 20 ---
+Filename: 5e4cbdb0-129.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | DEMO COMPANY INC.    | INC.                 | 0.35
+invoice_number       | 2018-0006            | None                 | N/A (Missing GT)
+invoice_date         | 2018-04-12           | 12-04-2018           | 0.5
+total_amount         | 214.09               | Gesamt               | 0.0
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | Munchen              | 0.36
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 21 ---
+Filename: 29b38900-13.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Ingoude Group        | Name                 | 0.25
+invoice_number       | 01234                | None                 | N/A (Missing GT)
+invoice_date         | 2024-08-13           | 01.01.2018           | 0.5
+total_amount         | 2142.0               | RechnungsDetrag      | 0.0
+iban                 | 0123 4567 8901       | DEXXXXXXXXXXXXXK     | 0.0
+vendor_name          | None                 | PLZOrt               | 0.2
+company_address      | None                 | el-Nummer            | 0.33
+
+--- Evaluation for Item 22 ---
+Filename: d473749d-15.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | BETTINA LANGE        | recmungsprogramm     | 0.21
+invoice_number       | 12345                | None                 | N/A (Missing GT)
+invoice_date         | 2030-10-25           | 16.07.2021           | 0.38
+total_amount         | 3991.1               | €                    | 0.0
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | [UmsatzteuerID)      | 0.12
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 23 ---
+Filename: f5d23e3d-17.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | KILLIAN RICHTER      | INC.                 | 0.35
+invoice_number       | 1234                 | None                 | N/A (Missing GT)
+invoice_date         | 2030-01-26           | 12-04-2018           | 0.5
+total_amount         | 18.45                | None                 | N/A (Missing GT)
+iban                 | DE12 3456 7890 123.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | Munchen              | 0.36
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 24 ---
+Filename: f2540912-18.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | sevDesk GmbH         | Name                 | 0.13
+invoice_number       | 1001                 | None                 | N/A (Missing GT)
+invoice_date         | 2018-02-25           | None                 | N/A (Missing GT)
+total_amount         | 606.9                | RechnungsDetrag      | 0.0
+iban                 | DE 85 12345678 012.. | DEXXXXXXXXXXXXXK     | 0.11
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 25 ---
+Filename: 0e693065-2.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | WERBEAGENTUR KLUGE.. | INC.                 | 0.1
+invoice_number       | 01234                | None                 | N/A (Missing GT)
+invoice_date         | 2024-08-13           | 2018-0006            | 0.38
+total_amount         | 2142.0               | Gesamt               | 0.0
+iban                 | 0123 4567 8901       | None                 | N/A (Missing GT)
+vendor_name          | None                 | Munchen              | 0.36
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 26 ---
+Filename: 5155f7af-20.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Musterfirma          | Group                | 0.12
+invoice_number       | 2021-0018            | None                 | N/A (Missing GT)
+invoice_date         | 2021-05-05           | None                 | N/A (Missing GT)
+total_amount         | 240.0                | BETRAG               | 0.0
+iban                 | AT8837468000000138.. | 45678901             | 0.36
+vendor_name          | None                 | Stadt                | 0.0
+company_address      | None                 | Stadt                | 0.0
+
+--- Evaluation for Item 27 ---
+Filename: 82f3825c-22.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Lidl                 | LANGE                | 0.22
+invoice_number       | 360622               | None                 | N/A (Missing GT)
+invoice_date         | 2021-12-21           | 25.10.2030           | 0.38
+total_amount         | 25.86                | 3.991,10€            | 0.0
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | Stadt                | 0.0
+company_address      | None                 | Stadt                | 0.0
+
+--- Evaluation for Item 28 ---
+Filename: bfc50900-23.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Papierwaren Schulz   | 01235678-90          | 0.0
+invoice_number       | 1234                 | None                 | N/A (Missing GT)
+invoice_date         | 2030-11-18           | 02.02.2030           | 0.5
+total_amount         | 52.0                 | Gesamtbetrag         | 0.0
+iban                 | DE12 3456 7890 123.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | Dresden              | 0.18
+company_address      | None                 | Rosenheim            | 0.46
+
+--- Evaluation for Item 29 ---
+Filename: 5a576b87-24.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Reisebüro Kronenbe.. | RICHTER              | 0.3
+invoice_number       | 1234                 | None                 | N/A (Missing GT)
+invoice_date         | 2030-05-22           | 26.01.2030           | 0.5
+total_amount         | 7407.75              | Gesamtbetrag"*       | 0.0
+iban                 | DE12 3456 7890 123.. | BIC:                 | 0.0
+vendor_name          | None                 | Glasstadt            | 0.0
+company_address      | None                 | Freiberg             | 0.17
+
+--- Evaluation for Item 30 ---
+Filename: eb7c560b-26.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Fotostudio Alex Be.. | sevDesk              | 0.19
+invoice_number       | 1234                 | None                 | N/A (Missing GT)
+invoice_date         | 2030-07-22           | 25.02.2018           | 0.5
+total_amount         | 9817.5               | Rechnungsbetrag      | 0.0
+iban                 | DE12 3456 7890 123.. | 123456780123456789   | 0.9
+vendor_name          | None                 | Musterstadt          | 0.13
+company_address      | None                 | ofenburg             | 0.33
+
+--- Evaluation for Item 31 ---
+Filename: be5d61c2-27.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | fortytools cleanin.. | KLUGER               | 0.14
+invoice_number       | 20191242             | None                 | N/A (Missing GT)
+invoice_date         | 2019-09-12           | None                 | N/A (Missing GT)
+total_amount         | 333.2                | 2142,00€             | 0.2
+iban                 | None                 | 45678901             | 0.0
+vendor_name          | None                 | Stadt                | 0.0
+company_address      | None                 | Brahms               | 0.0
+
+--- Evaluation for Item 32 ---
+Filename: 02aaf69a-28.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Studio Shodwe        | COMPANY              | 0.11
+invoice_number       | 01234                | None                 | N/A (Missing GT)
+invoice_date         | 2021-05-02           | None                 | N/A (Missing GT)
+total_amount         | 280.0                | Gesamtbetrag         | 0.0
+iban                 | None                 | A1B83745800013839    | 0.0
+vendor_name          | None                 | Wien                 | 0.25
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 33 ---
+Filename: 841c9ef9-29.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | OnlineBon Testkass.. | None                 | N/A (Missing GT)
+invoice_number       | RE01-000153          | None                 | N/A (Missing GT)
+invoice_date         | 2017-10-01           | 12/12/2020           | 0.5
+total_amount         | 6700.0               | 0,00€                | 0.75
+iban                 | AT1234012012031023.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | Telefonnummer        | 0.35
+company_address      | None                 | Munchen              | 0.36
+
+--- Evaluation for Item 34 ---
+Filename: 3f532dc6-3.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Tobias Jung          | LDL                  | 0.0
+invoice_number       | 12345                | None                 | N/A (Missing GT)
+invoice_date         | 2025-06-01           | 21.12.21             | 0.43
+total_amount         | 492.0                | 23,26                | 0.25
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Bremen               | 0.2
+
+--- Evaluation for Item 35 ---
+Filename: 397d0c5d-30.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Kunterbunte Welten   | linm                 | 0.19
+invoice_number       | 1234                 | None                 | N/A (Missing GT)
+invoice_date         | 2030-02-09           | 18.11.2030           | 0.5
+total_amount         | 25.18                | *0123)               | 0.25
+iban                 | DE12 3456 7890 123.. | 78901234567890       | 0.78
+vendor_name          | None                 | Bremen               | 0.2
+company_address      | None                 | Erkrath              | 0.18
+
+--- Evaluation for Item 36 ---
+Filename: cb349d3c-32.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | BETTINA LANGE        | None                 | N/A (Missing GT)
+invoice_number       | 12345                | None                 | N/A (Missing GT)
+invoice_date         | 2030-10-25           | 22.05.2030           | 0.5
+total_amount         | 3991.1               | Gesamtbetrag         | 0.0
+iban                 | None                 | 123456               | 0.0
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Ahlen                | 0.22
+
+--- Evaluation for Item 37 ---
+Filename: 5d0be0c8-33.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Musterfirma          | Bernthaler           | 0.29
+invoice_number       | 2020-12-1001         | None                 | N/A (Missing GT)
+invoice_date         | 2020-12-12           | 012/34567            | 0.38
+total_amount         | 0.0                  | Gesamtbetrag         | 0.0
+iban                 | None                 | 90                   | 0.0
+vendor_name          | None                 | Hamburg              | 0.0
+company_address      | None                 | 12345llarzburg       | 0.0
+
+--- Evaluation for Item 38 ---
+Filename: 90af1c0f-34.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Mustermann GmbH & .. | gmbh                 | 0.36
+invoice_number       | R2009-0008           | None                 | N/A (Missing GT)
+invoice_date         | 2009-08-23           | 12.09.19             | 0.43
+total_amount         | 133.88               | 333,20€              | 0.4
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | Hamburg              | 0.0
+company_address      | None                 | Germany              | 0.18
+
+--- Evaluation for Item 39 ---
+Filename: adeb8ba0-35.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Invoice Office Gmb.. | Shodwe               | 0.17
+invoice_number       | 2021021              | None                 | N/A (Missing GT)
+invoice_date         | 2021-04-01           | None                 | N/A (Missing GT)
+total_amount         | 1511.3               | Summe                | 0.0
+iban                 | DE2000011112222333.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | Stadt                | 0.0
+company_address      | None                 | Stadt                | 0.0
+
+--- Evaluation for Item 40 ---
+Filename: 1cfcda31-36.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Pension Musterbaum.. | Mustermann           | 0.45
+invoice_number       | 000013               | None                 | N/A (Missing GT)
+invoice_date         | 2099-01-01           | 01.10.201722:19      | 0.4
+total_amount         | 374.5                | Rechnungspetrag      | 0.0
+iban                 | DE55 5555 5555 555.. | A12340120120310230.. | 0.0
+vendor_name          | None                 | Wien                 | 0.25
+company_address      | None                 | Wien                 | 0.25
+
+--- Evaluation for Item 41 ---
+Filename: 1e90b8f4-37.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Mustermann GmbH      | None                 | N/A (Missing GT)
+invoice_number       | R-00001              | None                 | N/A (Missing GT)
+invoice_date         | 2021-12-07           | 2025                 | 0.5
+total_amount         | 847.92               | 492€                 | 0.75
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | TobiasJung           | 0.29
+
+--- Evaluation for Item 42 ---
+Filename: 7ca2f269-38.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Martin Müller        | None                 | N/A (Missing GT)
+invoice_number       | R-00002              | None                 | N/A (Missing GT)
+invoice_date         | 2021-12-07           | 09.02.2030           | 0.5
+total_amount         | 3219.29              | GESAMTBETRAG"        | 0.0
+iban                 | None                 | 1234567890           | 0.0
+vendor_name          | None                 | Munster              | 0.36
+company_address      | None                 | Welten               | 0.2
+
+--- Evaluation for Item 43 ---
+Filename: 1e15a6be-39.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Kunsthandwerk Klar.. | Vogelstetter         | 0.22
+invoice_number       | R-00003              | None                 | N/A (Missing GT)
+invoice_date         | 2021-12-08           | 25.10.2030           | 0.5
+total_amount         | 301.07               | 3.991,10€            | 0.55
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | Stadt                | 0.0
+company_address      | None                 | Stadt                | 0.0
+
+--- Evaluation for Item 44 ---
+Filename: 3f4b766b-4.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Vorname Name         | None                 | N/A (Missing GT)
+invoice_number       | 12345                | None                 | N/A (Missing GT)
+invoice_date         | 2022-01-01           | 12.12.2020           | 0.62
+total_amount         | 1683.85              | 0,00€                | 0.0
+iban                 | 123456789            | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Musterhausen:        | 0.12
+
+--- Evaluation for Item 45 ---
+Filename: 4de39e7d-40.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | H.S.I Deutschland    | None                 | N/A (Missing GT)
+invoice_number       | 993477               | None                 | N/A (Missing GT)
+invoice_date         | 2023-03-17           | 23.08.2009           | 0.5
+total_amount         | 329.85               | EUR                  | 0.0
+iban                 | ES97 2100 2671 720.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | Musterhheim          | 0.13
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 46 ---
+Filename: 28b211ed-41.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Landcafé Reiter      | GmbH                 | 0.0
+invoice_number       | 1234                 | None                 | N/A (Missing GT)
+invoice_date         | 2030-07-16           | 01.04.2021           | 0.5
+total_amount         | 1832.6               | USt                  | 0.0
+iban                 | DE12 3456 7890 123.. | DE2000011112222333.. | 0.36
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Frankfurt            | 0.15
+
+--- Evaluation for Item 47 ---
+Filename: bf173a11-42.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Ihr Firmenname       | GmbH                 | 0.12
+invoice_number       | 123-456              | None                 | N/A (Missing GT)
+invoice_date         | 2021-05-17           | 01.01.2099           | 0.5
+total_amount         | 493.85               | Gesammtbetrag:       | 0.0
+iban                 | None                 | 55                   | 0.0
+vendor_name          | None                 | Musterort            | 0.15
+company_address      | None                 | Musterhausen         | 0.12
+
+--- Evaluation for Item 48 ---
+Filename: 80b750c8-44.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Beispiel Firma       | GmbH                 | 0.12
+invoice_number       | 1234                 | None                 | N/A (Missing GT)
+invoice_date         | 2021-06-22           | 07.12.2021           | 0.5
+total_amount         | 1620.0               | 847,92€              | 0.2
+iban                 | DE2341124098234      | None                 | N/A (Missing GT)
+vendor_name          | None                 | Deutschland          | 0.13
+company_address      | None                 | Muster               | 0.2
+
+--- Evaluation for Item 49 ---
+Filename: 4cd9b777-45.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Beispiel Firma       | GmbH                 | 0.12
+invoice_number       | 1234                 | None                 | N/A (Missing GT)
+invoice_date         | 2021-06-23           | 07.12.2021           | 0.5
+total_amount         | 1606.5               | 3.219,29€            | 0.18
+iban                 | DE2341124098234      | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Deutschland          | 0.13
+
+--- Evaluation for Item 50 ---
+Filename: 15557be0-46.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Invoice Office Gmb.. | Schmidt              | 0.17
+invoice_number       | 2021010              | None                 | N/A (Missing GT)
+invoice_date         | 2021-03-29           | 08.12.2021           | 0.5
+total_amount         | 2284.8               | 301,07€              | 0.0
+iban                 | DE2000011112222333.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | Deutschland          | 0.13
+company_address      | None                 | Muster               | 0.2
+
+--- Evaluation for Item 51 ---
+Filename: 3734503b-49.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | NIKO BEETZ PHOTOGR.. | None                 | N/A (Missing GT)
+invoice_number       | 2019072701           | None                 | N/A (Missing GT)
+invoice_date         | 2019-01-27           | 01.01.2022           | 0.62
+total_amount         | 754.03               | Gesamtbetrag         | 0.0
+iban                 | DE1250010517064848.. | 123456789            | 0.39
+vendor_name          | None                 | Musterstadt          | 0.13
+company_address      | None                 | Musterstadt          | 0.13
+
+--- Evaluation for Item 52 ---
+Filename: 76fd8101-50.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | SHAWON FOTOSTUDIO    | Deutschland          | 0.37
+invoice_number       | 1009-01              | None                 | N/A (Missing GT)
+invoice_date         | 2021-01-01           | 17-03-2023           | 0.38
+total_amount         | 73.78                | 329,85               | 0.44
+iban                 | DE4150010517012345.. | 720210400253         | 0.35
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Deutschland          | 0.13
+
+--- Evaluation for Item 53 ---
+Filename: cb989511-51.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Studio MRT           | Reilel               | 0.13
+invoice_number       | 1234545              | None                 | N/A (Missing GT)
+invoice_date         | 2025-06-16           | 16.07.2030           | 0.38
+total_amount         | 2800.0               | 1832,60€             | 0.36
+iban                 | None                 | 567890               | 0.0
+vendor_name          | None                 | Karlsruhe            | 0.15
+company_address      | None                 | Kiel                 | 0.25
+
+--- Evaluation for Item 54 ---
+Filename: 2eff1bb0-52.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Studio MRT           | Firmenlogo           | 0.21
+invoice_number       | 1234545              | None                 | N/A (Missing GT)
+invoice_date         | 2025-06-16           | 1/.05.2021           | 0.53
+total_amount         | 2800                 | Gesamtsumme          | 0.0
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | (optional)           | 0.33
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 55 ---
+Filename: e6dd92e5-53.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Studio MRT           | None                 | N/A (Missing GT)
+invoice_number       | 1234545              | None                 | N/A (Missing GT)
+invoice_date         | 2025-06-16           | 22.06.2021           | 0.62
+total_amount         | 2800                 | 1620,00              | 0.6
+iban                 | None                 | DE2341124098234:     | 0.11
+vendor_name          | None                 | Berg                 | 0.25
+company_address      | None                 | Wasser               | 0.2
+
+--- Evaluation for Item 56 ---
+Filename: 773dcf92-55.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Shawon Fotostudio    | Firma                | 0.19
+invoice_number       | 1009-01              | None                 | N/A (Missing GT)
+invoice_date         | 2021-01-01           | 23.06.2021           | 0.62
+total_amount         | 73.78                | None                 | N/A (Missing GT)
+iban                 | DE4150010517012345.. | DE2341124098234      | 0.49
+vendor_name          | None                 | Deutschland          | 0.13
+company_address      | None                 | Deutschland          | 0.13
+
+--- Evaluation for Item 57 ---
+Filename: 5d05c183-58.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Studio Shodwe        | NAME                 | 0.12
+invoice_number       | 12345                | None                 | N/A (Missing GT)
+invoice_date         | 2025-06-16           | 29.03.2021           | 0.62
+total_amount         | 2750.0               | €2.284,80            | 0.36
+iban                 | None                 | DE2000011112222333.. | 0.08
+vendor_name          | None                 | LieferStadt          | 0.13
+company_address      | None                 | Ingoistadt           | 0.29
+
+--- Evaluation for Item 58 ---
+Filename: a7bb27b5-59.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Samira Hadid         | <Firmenname>         | 0.29
+invoice_number       | 12345                | None                 | N/A (Missing GT)
+invoice_date         | 2025-06-16           | 07.08.2019           | 0.5
+total_amount         | 2750.0               | None                 | N/A (Missing GT)
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | <Telefon>            | 0.36
+
+--- Evaluation for Item 59 ---
+Filename: 52003db5-6.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Etsy-Shop Killian .. | PHOTOGRAPIY          | 0.24
+invoice_number       | 1234                 | None                 | N/A (Missing GT)
+invoice_date         | 2030-01-26           | 27.01.2019           | 0.5
+total_amount         | 18.45                | 754,03€              | 0.22
+iban                 | DE12 3456 7890 123.. | 082501057048X4       | 0.39
+vendor_name          | None                 | Munchen              | 0.36
+company_address      | None                 | Nenkirchen           | 0.43
+
+--- Evaluation for Item 60 ---
+Filename: 67152eed-61.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Samira Hadid         | FOTOSTUDIO           | 0.29
+invoice_number       | 12345                | None                 | N/A (Missing GT)
+invoice_date         | 2025-06-16           | 01/01/21             | 0.43
+total_amount         | 2750.0               | €                    | 0.0
+iban                 | None                 | DE4150010517012345.. | 0.08
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | (0221).9876-56       | 0.0
+
+--- Evaluation for Item 61 ---
+Filename: 20dd6dd9-63.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | SARIA FOTOSTUDIO     | None                 | N/A (Missing GT)
+invoice_number       | 1009-01              | None                 | N/A (Missing GT)
+invoice_date         | 2021-01-01           | 2025                 | 0.5
+total_amount         | 73.78                | 2800€                | 0.25
+iban                 | DE4150010517012345.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | elo@realygreabsle... | 0.17
+company_address      | None                 | 9s.Neustd,stemenoe   | 0.3
+
+--- Evaluation for Item 62 ---
+Filename: 206a18f0-64.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | SCHMIDT Innenausba.. | None                 | N/A (Missing GT)
+invoice_number       | 2017205              | None                 | N/A (Missing GT)
+invoice_date         | 2018-01-24           | 2025                 | 0.5
+total_amount         | -476.0               | 2800€                | 0.25
+iban                 | DE12 345 000 000 0.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | eloerealygleabsie... | 0.17
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 63 ---
+Filename: bccf9aee-71.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Musterfirma GmbH     | None                 | N/A (Missing GT)
+invoice_number       | (Nummer)             | None                 | N/A (Missing GT)
+invoice_date         | None                 | 2025                 | 0.0
+total_amount         | 2.38                 | €                    | 0.0
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | hello@reallygreats.. | 0.15
+company_address      | None                 | 395,Neustad,Bremen.. | 0.27
+
+--- Evaluation for Item 64 ---
+Filename: 6a0150c9-72.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | MusterFood GmbH      | Fotostudio           | 0.33
+invoice_number       | 2018-01111           | None                 | N/A (Missing GT)
+invoice_date         | 2018-11-11           | 01/01/21             | 0.57
+total_amount         | 563.36               | 73,78€               | 0.22
+iban                 | DE11 1234 5678 901.. | DE4500057072456789   | 0.5
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Musterstadt          | 0.13
+
+--- Evaluation for Item 65 ---
+Filename: 2653037f-73.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Autoflick & Co.      | Shodwe               | 0.12
+invoice_number       | 2018-0005-K          | None                 | N/A (Missing GT)
+invoice_date         | 2018-10-02           | None                 | N/A (Missing GT)
+total_amount         | 8500.0               | C                    | 0.0
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | 12345                | 0.0
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 66 ---
+Filename: fef89603-74.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Gartenbau Grün       | None                 | N/A (Missing GT)
+invoice_number       | 220001               | None                 | N/A (Missing GT)
+invoice_date         | 2022-11-02           | 2025                 | 0.5
+total_amount         | 3711.61              | 2750€                | 0.2
+iban                 | DE 11 3456 7890      | None                 | N/A (Missing GT)
+vendor_name          | None                 | 12345                | 0.0
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 67 ---
+Filename: 1ace5f81-75.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Invoice Office Gmb.. | None                 | N/A (Missing GT)
+invoice_number       | 2021014              | None                 | N/A (Missing GT)
+invoice_date         | 2021-03-29           | 2025                 | 0.5
+total_amount         | 2991.66              | 2750€                | 0.2
+iban                 | DE2000011112222333.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | USA31036             | 0.0
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 68 ---
+Filename: 164c99c8-76.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Invoice Office Gmb.. | RICHTER              | 0.25
+invoice_number       | 2021015              | None                 | N/A (Missing GT)
+invoice_date         | 2021-03-29           | 26.01.2030           | 0.62
+total_amount         | 6057.1               | Gesamtbetrag"*       | 0.0
+iban                 | DE2000011112222333.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | Glasstadt            | 0.0
+company_address      | None                 | Freiberg             | 0.17
+
+--- Evaluation for Item 69 ---
+Filename: 0f7b07c9-77.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Lightweight Aviati.. | None                 | N/A (Missing GT)
+invoice_number       | 2021017              | None                 | N/A (Missing GT)
+invoice_date         | 2021-03-29           | 16                   | 0.2
+total_amount         | 5712.0               | 2750€                | 0.44
+iban                 | DE2000011112222333.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | City,                | 0.0
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 70 ---
+Filename: 746e30aa-78.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Invoice Office Gmb.. | FOTOSTUDIO           | 0.22
+invoice_number       | 2021018              | None                 | N/A (Missing GT)
+invoice_date         | 2021-03-29           | 01/01/21             | 0.57
+total_amount         | 6854.4               | €                    | 0.0
+iban                 | DE2000011112222333.. | DE4150010517012345.. | 0.41
+vendor_name          | None                 | MITTERSTADT          | 0.13
+company_address      | None                 | MUSTERSTADT          | 0.13
+
+--- Evaluation for Item 71 ---
+Filename: 595e0bfa-79.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Mein Name            | Innenausbau          | 0.42
+invoice_number       | 123                  | None                 | N/A (Missing GT)
+invoice_date         | 2020-05-01           | 24.01.2018           | 0.62
+total_amount         | 1670.8               | -476,00              | 0.4
+iban                 | DE2236912004730099.. | 345678               | 0.23
+vendor_name          | None                 | Passauf              | 0.0
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 72 ---
+Filename: b3011d80-80.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Musterfirma          | None                 | N/A (Missing GT)
+invoice_number       | 240007               | None                 | N/A (Missing GT)
+invoice_date         | 2022-09-24           | None                 | N/A (Missing GT)
+total_amount         | 100.0                | 492€                 | 0.0
+iban                 | None                 | None                 | N/A (Missing GT)
+vendor_name          | None                 | 2026                 | 0.0
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 73 ---
+Filename: 911b7671-81.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Beispielfirma        | None                 | N/A (Missing GT)
+invoice_number       | XXXXXXXX             | None                 | N/A (Missing GT)
+invoice_date         | TT.MM.JJJJ           | 01.06.2015           | 0.0
+total_amount         | 130.86               | RECHNUNGSBETRAG      | 0.0
+iban                 | DE1234567899876543.. | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 74 ---
+Filename: 472df2ef-82.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | European Auto Part.. | vordrucke.de         | 0.14
+invoice_number       | DE-001               | None                 | N/A (Missing GT)
+invoice_date         | 2019-01-29           | None                 | N/A (Missing GT)
+total_amount         | 165.41               | 2.38€                | 0.0
+iban                 | DE91 1234 5678       | None                 | N/A (Missing GT)
+vendor_name          | None                 | Musterstadt          | 0.13
+company_address      | None                 | Elgensad:            | 0.17
+
+--- Evaluation for Item 75 ---
+Filename: 883ae446-83.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | European Auto Part.. | GmbH                 | 0.0
+invoice_number       | DE-001               | None                 | N/A (Missing GT)
+invoice_date         | 2019-01-29           | 017/211323           | 0.47
+total_amount         | 165.41               | Gesamtbetrag         | 0.0
+iban                 | DE91 1234 5678       | 901234               | 0.56
+vendor_name          | None                 | Berlin               | 0.2
+company_address      | None                 | Munchen              | 0.36
+
+--- Evaluation for Item 76 ---
+Filename: 0487a312-84.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | European Auto Part.. | Nadja                | 0.27
+invoice_number       | DE-001               | None                 | N/A (Missing GT)
+invoice_date         | 2019-01-29           | 02.10.2018           | 0.5
+total_amount         | 165.41               | EUR                  | 0.0
+iban                 | DE91 1234 5678       | None                 | N/A (Missing GT)
+vendor_name          | None                 | None                 | N/A (Missing GT)
+company_address      | None                 | Dornbirn             | 0.33
+
+--- Evaluation for Item 77 ---
+Filename: e032470e-85.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | European Auto Part.. | Grun                 | 0.19
+invoice_number       | DE-001               | None                 | N/A (Missing GT)
+invoice_date         | 2019-01-29           | 02.11.2022           | 0.5
+total_amount         | 165.41               | 3.711,61€            | 0.55
+iban                 | DE91 1234 5678       | 1234367890           | 0.64
+vendor_name          | None                 | Bergheim             | 0.17
+company_address      | None                 | Berlin               | 0.2
+
+--- Evaluation for Item 78 ---
+Filename: 715fdd3a-86.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | European Auto Part.. | GmbH                 | 0.0
+invoice_number       | DE-001               | None                 | N/A (Missing GT)
+invoice_date         | 2019-01-29           | None                 | N/A (Missing GT)
+total_amount         | 165.41               | €2.991,66            | 0.36
+iban                 | DE91 1234 5678       | DE2000011112222333.. | 0.35
+vendor_name          | None                 | Berlin               | 0.2
+company_address      | None                 | Ingolstadt           | 0.29
+
+--- Evaluation for Item 79 ---
+Filename: 9407ddcd-88.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | European Auto Part.. | HERE                 | 0.29
+invoice_number       | DE-001               | None                 | N/A (Missing GT)
+invoice_date         | 2019-01-29           | 29.03.2021           | 0.5
+total_amount         | 165.41               | USt                  | 0.0
+iban                 | DE91 1234 5678       | DE2000011112222333.. | 0.35
+vendor_name          | None                 | Kiel                 | 0.25
+company_address      | None                 | None                 | N/A (Missing GT)
+
+--- Evaluation for Item 80 ---
+Filename: 6517cb77-9.jpg
+FIELD                | PREDICTION           | GROUND TRUTH         | SCORE
+---------------------------------------------------------------------------
+company_name         | Aldenaire & Partne.. | SLOGAN               | 0.26
+invoice_number       | R-123456             | None                 | N/A (Missing GT)
+invoice_date         | 2024-01-10           | 29.03.2021           | 0.62
+total_amount         | 220.0                | 5.712,00             | 0.6
+iban                 | None                 | DE2000011112222333.. | 0.08
+vendor_name          | None                 | Munchen              | 0.36
+company_address      | None                 | None                 | N/A (Missing GT)
+
+=======================================================
+FIELD                | SAMPLES    | AVG SCORE 
+=======================================================
+company_address      | 56         | 0.18
+company_name         | 61         | 0.26
+iban                 | 35         | 0.26
+invoice_date         | 68         | 0.45
+total_amount         | 77         | 0.20
+vendor_name          | 60         | 0.15
+-------------------------------------------------------
+GLOBAL SCORE         | (Macro)    | 0.25
+=======================================================

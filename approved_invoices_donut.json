@@ -1,0 +1,2668 @@
+[
+  {
+    "company_name": {
+      "value": "Paul Cheung",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "1234",
+      "confidence": 0.95
+    },
+    "invoice_date": {
+      "value": "2030-07-29",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 7735.0,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Freiberuflerbank",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE12 3456 7890 1234 5678 90",
+      "confidence": 1.0
+    },
+    "filename": "ab89dc8d-1.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Mikoko Ramen- & Sushi-Bar",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "1234",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2030-09-27",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 878.22,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Musterbank",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": "DE12 3456 7890 1234 5678 90",
+      "confidence": 0.99
+    },
+    "filename": "36f6332d-10.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Musterfirma GmbH",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "RE-2017-MAI-11-0003",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2017-05-11",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2017-05-25",
+      "confidence": 1.0
+    },
+    "total_amount": {
+      "value": 327.25,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Muster Bank",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE19 1234 1234 1234 1234 12",
+      "confidence": 1.0
+    },
+    "filename": "04384c9b-100.jpg"
+  },
+  {
+    "company_name": {
+      "value": "[Unternehmensname]",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "257",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-07-21",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-08-04",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 595.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "[Bankname]",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": "[Bankkonto (IBAN)]",
+      "confidence": 0.95
+    },
+    "filename": "a999e5bd-103.jpg"
+  },
+  {
+    "company_name": {
+      "value": "[Freiberufler]",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "220",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-07-12",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-07-26",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 2465.68,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "[Bankname]",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": "[Bankkonto (IBAN)]",
+      "confidence": 0.95
+    },
+    "filename": "18546ba9-104.jpg"
+  },
+  {
+    "company_name": {
+      "value": "easybill GmbH",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "2019266021",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2020-02-05",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 744.33,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Deutsche Bank Privat und Gesch\u00e4ftskunden AG",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE58 3007 0024 0509 9445 00",
+      "confidence": 1.0
+    },
+    "filename": "ba30b225-105.jpg"
+  },
+  {
+    "company_name": {
+      "value": "[Unternehmensname]",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "241",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2021-07-17",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2021-07-31",
+      "confidence": 1.0
+    },
+    "total_amount": {
+      "value": 2156.0,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "[Bankname]",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "[Bankkonto (IBAN)]",
+      "confidence": 1.0
+    },
+    "filename": "6c96e629-106.jpg"
+  },
+  {
+    "company_name": {
+      "value": "[Unternehmensname]",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "311",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-08-02",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-08-16",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 1820.7,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "[Bankname]",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": "[Bankkonto (IBAN)]",
+      "confidence": 0.95
+    },
+    "filename": "3cef9894-107.jpg"
+  },
+  {
+    "company_name": {
+      "value": "pixa",
+      "confidence": 0.9
+    },
+    "invoice_number": {
+      "value": "123",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2019-12-02",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2019-12-16",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 3178.49,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Musterbank",
+      "confidence": 0.99
+    },
+    "iban": {
+      "value": "DE07 1234 1234 1234 1234 12",
+      "confidence": 0.99
+    },
+    "filename": "d123a11a-108.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Unternehmen Name oder Logo",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "49163336111",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2018-04-09",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2020-04-09",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 2675.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "e1518bad-109.jpg"
+  },
+  {
+    "company_name": {
+      "value": "LIDL",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "08150130110091120191755",
+      "confidence": 0.9
+    },
+    "invoice_date": {
+      "value": "2019-11-09",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 12.56,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "198ecf6b-115.jpg"
+  },
+  {
+    "company_name": {
+      "value": "LIDL",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "581439/06",
+      "confidence": 0.85
+    },
+    "invoice_date": {
+      "value": "2021-11-13",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 3.73,
+      "confidence": 0.98
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "ec60cbc0-116.jpg"
+  },
+  {
+    "company_name": {
+      "value": "LIDL",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "311359/04",
+      "confidence": 0.85
+    },
+    "invoice_date": {
+      "value": "2021-11-27",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 0.98,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "ada5da5a-118.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Grafikdesign Bettina Reiner",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "01234",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2023-08-23",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2023-09-06",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 430.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "111fbb40-12.jpg"
+  },
+  {
+    "company_name": {
+      "value": "[Unternehmensname]",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "233",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2021-07-16",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2021-07-30",
+      "confidence": 1.0
+    },
+    "total_amount": {
+      "value": 1428.0,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "[Bankname]",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "[Bankkonto (IBAN)]",
+      "confidence": 1.0
+    },
+    "filename": "d5207fd9-122.jpg"
+  },
+  {
+    "company_name": {
+      "value": "DEMO COMPANY INC.",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "2018-0006",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2018-04-12",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2018-04-27",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 214.09,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "6d7a02ec-123.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Dein (Unternehmens-) Name",
+      "confidence": 0.9
+    },
+    "invoice_number": {
+      "value": "2018-0001",
+      "confidence": 0.95
+    },
+    "invoice_date": {
+      "value": "2018-01-01",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": "2018-01-11",
+      "confidence": 0.9
+    },
+    "total_amount": {
+      "value": 1386.05,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": "Dein Kreditinstitut",
+      "confidence": 0.85
+    },
+    "iban": {
+      "value": "DEXXXXXXXXXXXXXXXXXX",
+      "confidence": 0.95
+    },
+    "filename": "6a70449a-124.jpg"
+  },
+  {
+    "company_name": {
+      "value": "[Unternehmensname]",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "233",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2021-07-16",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2021-07-30",
+      "confidence": 1.0
+    },
+    "total_amount": {
+      "value": 1428.0,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "[Bankname]",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "[Bankkonto (IBAN)]",
+      "confidence": 1.0
+    },
+    "filename": "51f1d93c-125.jpg"
+  },
+  {
+    "company_name": {
+      "value": "DEMO COMPANY INC.",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "2018-0006",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2018-04-12",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2018-04-27",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 214.09,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "de012268-126.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Dein (Unternehmens-) Name",
+      "confidence": 0.9
+    },
+    "invoice_number": {
+      "value": "2018-0001",
+      "confidence": 0.95
+    },
+    "invoice_date": {
+      "value": "2018-01-01",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": "2018-01-11",
+      "confidence": 0.9
+    },
+    "total_amount": {
+      "value": 1386.05,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": "Dein Kreditinstitut",
+      "confidence": 0.85
+    },
+    "iban": {
+      "value": "DEXXXXXXXXXXXXXXXXXX",
+      "confidence": 0.95
+    },
+    "filename": "c7298a24-127.jpg"
+  },
+  {
+    "company_name": {
+      "value": "DEMO COMPANY INC.",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "2018-0006",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2018-04-12",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2018-04-27",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 214.09,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "5e4cbdb0-129.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Ingoude Group",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "01234",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2024-08-13",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2024-09-15",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 2142.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "0123 4567 8901",
+      "confidence": 0.99
+    },
+    "filename": "29b38900-13.jpg"
+  },
+  {
+    "company_name": {
+      "value": "BETTINA LANGE",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "12345",
+      "confidence": 0.95
+    },
+    "invoice_date": {
+      "value": "2030-10-25",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": "2030-11-20",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 3991.1,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "d473749d-15.jpg"
+  },
+  {
+    "company_name": {
+      "value": "KILLIAN RICHTER",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "1234",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2030-01-26",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2030-02-09",
+      "confidence": 0.9
+    },
+    "total_amount": {
+      "value": 18.45,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Musterbank",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": "DE12 3456 7890 1234 5678 90",
+      "confidence": 0.99
+    },
+    "filename": "f5d23e3d-17.jpg"
+  },
+  {
+    "company_name": {
+      "value": "sevDesk GmbH",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "1001",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2018-02-25",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2018-03-11",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 606.9,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Musterbank",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE 85 12345678 0123456789",
+      "confidence": 1.0
+    },
+    "filename": "f2540912-18.jpg"
+  },
+  {
+    "company_name": {
+      "value": "WERBEAGENTUR KLUGER",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "01234",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2024-08-13",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2024-09-15",
+      "confidence": 1.0
+    },
+    "total_amount": {
+      "value": 2142.0,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "0123 4567 8901",
+      "confidence": 1.0
+    },
+    "filename": "0e693065-2.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Musterfirma",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "2021-0018",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-05-05",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-05-20",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 240.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "AT883746800000013839",
+      "confidence": 0.99
+    },
+    "filename": "5155f7af-20.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Lidl",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "360622",
+      "confidence": 0.85
+    },
+    "invoice_date": {
+      "value": "2021-12-21",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 25.86,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "82f3825c-22.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Papierwaren Schulz",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "1234",
+      "confidence": 0.95
+    },
+    "invoice_date": {
+      "value": "2030-11-18",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 52.0,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": "Musterbank",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": "DE12 3456 7890 1234 5678 90",
+      "confidence": 0.95
+    },
+    "filename": "bfc50900-23.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Reiseb\u00fcro Kronenberger",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "1234",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2030-05-22",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2030-06-05",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 7407.75,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Reisebank",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE12 3456 7890 1234 56",
+      "confidence": 1.0
+    },
+    "filename": "5a576b87-24.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Fotostudio Alex Bernthaler",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "1234",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2030-07-22",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2030-08-05",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 9817.5,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Freiberuflerbank",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE12 3456 7890 1234 5678 90",
+      "confidence": 1.0
+    },
+    "filename": "eb7c560b-26.jpg"
+  },
+  {
+    "company_name": {
+      "value": "fortytools cleaning gmbh",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "20191242",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2019-09-12",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2019-09-12",
+      "confidence": 0.9
+    },
+    "total_amount": {
+      "value": 333.2,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Deutsche Bank",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "be5d61c2-27.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Studio Shodwe",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "01234",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-05-02",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-05-16",
+      "confidence": 0.9
+    },
+    "total_amount": {
+      "value": 280.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "02aaf69a-28.jpg"
+  },
+  {
+    "company_name": {
+      "value": "OnlineBon Testkassa",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "RE01-000153",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2017-10-01",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 6700.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Easybank",
+      "confidence": 0.98
+    },
+    "iban": {
+      "value": "AT123401201203102301",
+      "confidence": 0.99
+    },
+    "filename": "841c9ef9-29.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Tobias Jung",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "12345",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2025-06-01",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2025-07-01",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 492.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Privatbank Goldochse",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "3f532dc6-3.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Kunterbunte Welten",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "1234",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2030-02-09",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2030-02-23",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 25.18,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Musterbank",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE12 3456 7890 1234 5678 90",
+      "confidence": 1.0
+    },
+    "filename": "397d0c5d-30.jpg"
+  },
+  {
+    "company_name": {
+      "value": "BETTINA LANGE",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "12345",
+      "confidence": 0.95
+    },
+    "invoice_date": {
+      "value": "2030-10-25",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": "2030-11-20",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 3991.1,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "cb349d3c-32.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Musterfirma",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "2020-12-1001",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2020-12-12",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2020-12-26",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 0.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Wise",
+      "confidence": 0.99
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "5d0be0c8-33.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Mustermann GmbH & Co. KG",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "R2009-0008",
+      "confidence": 0.95
+    },
+    "invoice_date": {
+      "value": "2009-08-23",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": "2009-09-12",
+      "confidence": 0.9
+    },
+    "total_amount": {
+      "value": 133.88,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": "Musterbank",
+      "confidence": 0.9
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "90af1c0f-34.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Invoice Office GmbH",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "2021021",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-04-01",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-05-01",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 1511.3,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "DE20000111122223332103",
+      "confidence": 0.99
+    },
+    "filename": "adeb8ba0-35.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Pension Musterbaum GmbH",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "000013",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2099-01-01",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 374.5,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Volksbank Musterhausen e.V.",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE55 5555 5555 5555 5555 55",
+      "confidence": 1.0
+    },
+    "filename": "1cfcda31-36.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Mustermann GmbH",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "R-00001",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-12-07",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-12-21",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 847.92,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "1e90b8f4-37.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Martin M\u00fcller",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "R-00002",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-12-07",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-12-21",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 3219.29,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "7ca2f269-38.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Kunsthandwerk Klara Schmidt",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "R-00003",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-12-08",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-12-22",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 301.07,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "1e15a6be-39.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Vorname Name",
+      "confidence": 0.9
+    },
+    "invoice_number": {
+      "value": "12345",
+      "confidence": 0.95
+    },
+    "invoice_date": {
+      "value": "2022-01-01",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": "2022-01-15",
+      "confidence": 0.85
+    },
+    "total_amount": {
+      "value": 1683.85,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "123456789",
+      "confidence": 0.95
+    },
+    "filename": "3f4b766b-4.jpg"
+  },
+  {
+    "company_name": {
+      "value": "H.S.I Deutschland",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "993477",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2023-03-17",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2023-03-31",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 329.85,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "ES97 2100 2671 7202 1040 0253",
+      "confidence": 0.99
+    },
+    "filename": "4de39e7d-40.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Landcaf\u00e9 Reiter",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "1234",
+      "confidence": 0.85
+    },
+    "invoice_date": {
+      "value": "2030-07-16",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 1832.6,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": "Ipsumbank",
+      "confidence": 0.9
+    },
+    "iban": {
+      "value": "DE12 3456 7890 1234 5678 90",
+      "confidence": 0.95
+    },
+    "filename": "28b211ed-41.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Ihr Firmenname",
+      "confidence": 0.9
+    },
+    "invoice_number": {
+      "value": "123-456",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-05-17",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-05-31",
+      "confidence": 0.85
+    },
+    "total_amount": {
+      "value": 493.85,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "bf173a11-42.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Beispiel Firma",
+      "confidence": 0.99
+    },
+    "invoice_number": {
+      "value": "1234",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-06-22",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-06-22",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 1620.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Sparkasse Wasser",
+      "confidence": 0.99
+    },
+    "iban": {
+      "value": "DE2341124098234",
+      "confidence": 0.99
+    },
+    "filename": "80b750c8-44.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Beispiel Firma",
+      "confidence": 0.99
+    },
+    "invoice_number": {
+      "value": "1234",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-06-23",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-07-07",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 1606.5,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Sparkasse Wasser",
+      "confidence": 0.99
+    },
+    "iban": {
+      "value": "DE2341124098234",
+      "confidence": 0.99
+    },
+    "filename": "4cd9b777-45.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Invoice Office GmbH",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "2021010",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-03-29",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-04-28",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 2284.8,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "DE20000111122223332103",
+      "confidence": 0.99
+    },
+    "filename": "15557be0-46.jpg"
+  },
+  {
+    "company_name": {
+      "value": "NIKO BEETZ PHOTOGRAPHY",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "2019072701",
+      "confidence": 0.98
+    },
+    "invoice_date": {
+      "value": "2019-01-27",
+      "confidence": 0.98
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 754.03,
+      "confidence": 0.98
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "DE12500105170648489890",
+      "confidence": 0.98
+    },
+    "filename": "3734503b-49.jpg"
+  },
+  {
+    "company_name": {
+      "value": "SHAWON FOTOSTUDIO",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "1009-01",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2021-01-01",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 73.78,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "DE41500105170123456789",
+      "confidence": 1.0
+    },
+    "filename": "76fd8101-50.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Studio MRT",
+      "confidence": 0.9
+    },
+    "invoice_number": {
+      "value": "1234545",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2025-06-16",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 2800.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Really Great Bank",
+      "confidence": 0.99
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "cb989511-51.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Studio MRT",
+      "confidence": 0.9
+    },
+    "invoice_number": {
+      "value": "1234545",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2025-06-16",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 2800,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Really Great Bank",
+      "confidence": 0.99
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "2eff1bb0-52.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Studio MRT",
+      "confidence": 0.9
+    },
+    "invoice_number": {
+      "value": "1234545",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2025-06-16",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 2800,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Really Great Bank",
+      "confidence": 0.99
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "e6dd92e5-53.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Shawon Fotostudio",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "1009-01",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-01-01",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 73.78,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "DE41500105170123456789",
+      "confidence": 0.99
+    },
+    "filename": "773dcf92-55.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Studio Shodwe",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "12345",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2025-06-16",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 2750.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Really Great Bank",
+      "confidence": 0.99
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "5d05c183-58.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Samira Hadid",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "12345",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2025-06-16",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 2750.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Really Great Bank",
+      "confidence": 0.99
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "a7bb27b5-59.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Etsy-Shop Killian Richter",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "1234",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2030-01-26",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 18.45,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Musterbank",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE12 3456 7890 1234 5678 90",
+      "confidence": 1.0
+    },
+    "filename": "52003db5-6.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Samira Hadid",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "12345",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2025-06-16",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 2750.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Really Great Bank",
+      "confidence": 0.99
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "67152eed-61.jpg"
+  },
+  {
+    "company_name": {
+      "value": "SARIA FOTOSTUDIO",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "1009-01",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2021-01-01",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 73.78,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "DE41500105170123456789",
+      "confidence": 1.0
+    },
+    "filename": "20dd6dd9-63.jpg"
+  },
+  {
+    "company_name": {
+      "value": "SCHMIDT Innenausbau",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "2017205",
+      "confidence": 0.9
+    },
+    "invoice_date": {
+      "value": "2018-01-24",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": "2018-01-31",
+      "confidence": 0.9
+    },
+    "total_amount": {
+      "value": -476.0,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": "Wiesbadener Volksbank",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": "DE12 345 000 000 002 345 678",
+      "confidence": 0.95
+    },
+    "filename": "206a18f0-64.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Musterfirma GmbH",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "(Nummer)",
+      "confidence": 0.9
+    },
+    "invoice_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 2.38,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": "EigeneBank",
+      "confidence": 0.9
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "bccf9aee-71.jpg"
+  },
+  {
+    "company_name": {
+      "value": "MusterFood GmbH",
+      "confidence": 0.99
+    },
+    "invoice_number": {
+      "value": "2018-01111",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2018-11-11",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2018-11-25",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 563.36,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Deutsche Testebank",
+      "confidence": 0.99
+    },
+    "iban": {
+      "value": "DE11 1234 5678 9012 34",
+      "confidence": 0.99
+    },
+    "filename": "6a0150c9-72.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Autoflick & Co.",
+      "confidence": 0.9
+    },
+    "invoice_number": {
+      "value": "2018-0005-K",
+      "confidence": 0.95
+    },
+    "invoice_date": {
+      "value": "2018-10-02",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": 8500.0,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "2653037f-73.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Gartenbau Gr\u00fcn",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "220001",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2022-11-02",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2022-11-16",
+      "confidence": 1.0
+    },
+    "total_amount": {
+      "value": 3711.61,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Kreissparkasse Musterstadt",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE 11 3456 7890",
+      "confidence": 1.0
+    },
+    "filename": "fef89603-74.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Invoice Office GmbH",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "2021014",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-03-29",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-04-28",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 2991.66,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "DE20000111122223332103",
+      "confidence": 0.99
+    },
+    "filename": "1ace5f81-75.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Invoice Office GmbH",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "2021015",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-03-29",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-04-28",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 6057.1,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "DE20000111122223332103",
+      "confidence": 0.99
+    },
+    "filename": "164c99c8-76.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Lightweight Aviation GmbH",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "2021017",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-03-29",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-04-28",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 5712.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "DE20000111122223332103",
+      "confidence": 0.99
+    },
+    "filename": "0f7b07c9-77.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Invoice Office GmbH",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "2021018",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2021-03-29",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2021-04-28",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 6854.4,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": "DE20000111122223332103",
+      "confidence": 0.99
+    },
+    "filename": "746e30aa-78.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Mein Name",
+      "confidence": 0.9
+    },
+    "invoice_number": {
+      "value": "123",
+      "confidence": 0.95
+    },
+    "invoice_date": {
+      "value": "2020-05-01",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": "2020-05-15",
+      "confidence": 0.9
+    },
+    "total_amount": {
+      "value": 1670.8,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": "GiroBank AG",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": "DE223691200473009900",
+      "confidence": 0.95
+    },
+    "filename": "595e0bfa-79.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Musterfirma",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "240007",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2022-09-24",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2022-10-24",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 100.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "b3011d80-80.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Beispielfirma",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "XXXXXXXX",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "TT.MM.JJJJ",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "TT.MM.JJJJ",
+      "confidence": 1.0
+    },
+    "total_amount": {
+      "value": 130.86,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Muster-Bank AG",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE12345678998765432100",
+      "confidence": 1.0
+    },
+    "filename": "911b7671-81.jpg"
+  },
+  {
+    "company_name": {
+      "value": "European Auto Parts",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "DE-001",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2019-01-29",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2019-01-29",
+      "confidence": 1.0
+    },
+    "total_amount": {
+      "value": 165.41,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Deutsche Bank",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE91 1234 5678",
+      "confidence": 1.0
+    },
+    "filename": "472df2ef-82.jpg"
+  },
+  {
+    "company_name": {
+      "value": "European Auto Parts",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "DE-001",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2019-01-29",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2019-01-29",
+      "confidence": 1.0
+    },
+    "total_amount": {
+      "value": 165.41,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Deutsche Bank",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE91 1234 5678",
+      "confidence": 1.0
+    },
+    "filename": "883ae446-83.jpg"
+  },
+  {
+    "company_name": {
+      "value": "European Auto Parts",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "DE-001",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2019-01-29",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2019-01-29",
+      "confidence": 1.0
+    },
+    "total_amount": {
+      "value": 165.41,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Deutsche Bank",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE91 1234 5678",
+      "confidence": 1.0
+    },
+    "filename": "0487a312-84.jpg"
+  },
+  {
+    "company_name": {
+      "value": "European Auto Parts",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "DE-001",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2019-01-29",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2019-01-29",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 165.41,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Deutsche Bank",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": "DE91 1234 5678",
+      "confidence": 0.99
+    },
+    "filename": "e032470e-85.jpg"
+  },
+  {
+    "company_name": {
+      "value": "European Auto Parts",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "DE-001",
+      "confidence": 0.95
+    },
+    "invoice_date": {
+      "value": "2019-01-29",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": "2019-01-29",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 165.41,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": "Deutsche Bank",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": "DE91 1234 5678",
+      "confidence": 0.95
+    },
+    "filename": "715fdd3a-86.jpg"
+  },
+  {
+    "company_name": {
+      "value": "European Auto Parts",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "DE-001",
+      "confidence": 0.95
+    },
+    "invoice_date": {
+      "value": "2019-01-29",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": "2019-01-29",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 165.41,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": "Deutsche Bank",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": "DE91 1234 5678",
+      "confidence": 0.95
+    },
+    "filename": "9407ddcd-88.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Aldenaire & Partners",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "R-123456",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2024-01-10",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2024-01-24",
+      "confidence": 0.9
+    },
+    "total_amount": {
+      "value": 220.0,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "6517cb77-9.jpg"
+  },
+  {
+    "company_name": {
+      "value": "EUROPEAN AUTO PARTS",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "DE-001",
+      "confidence": 0.95
+    },
+    "invoice_date": {
+      "value": "2019-01-29",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": "2019-01-29",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 165.41,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": "Deutsche Bank",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": "DE91 1234 5678",
+      "confidence": 0.95
+    },
+    "filename": "f06dc479-90.jpg"
+  },
+  {
+    "company_name": {
+      "value": "European Auto Parts",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "DE-001",
+      "confidence": 0.9
+    },
+    "invoice_date": {
+      "value": "2019-01-29",
+      "confidence": 0.95
+    },
+    "due_date": {
+      "value": "2019-01-29",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 165.41,
+      "confidence": 0.95
+    },
+    "bank_name": {
+      "value": "Deutsche Bank",
+      "confidence": 0.95
+    },
+    "iban": {
+      "value": "DE91 1234 5678",
+      "confidence": 0.95
+    },
+    "filename": "a93c1daf-94.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Mustermann KG",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "1001",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2020-01-01",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2020-01-15",
+      "confidence": 0.95
+    },
+    "total_amount": {
+      "value": 760.41,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "iban": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "filename": "f8dde1b5-95.jpg"
+  },
+  {
+    "company_name": {
+      "value": "Musterfirma GmbH",
+      "confidence": 1.0
+    },
+    "invoice_number": {
+      "value": "123",
+      "confidence": 1.0
+    },
+    "invoice_date": {
+      "value": "2020-09-07",
+      "confidence": 1.0
+    },
+    "due_date": {
+      "value": "2020-09-21",
+      "confidence": 1.0
+    },
+    "total_amount": {
+      "value": 1339.9,
+      "confidence": 1.0
+    },
+    "bank_name": {
+      "value": "Muster Bank",
+      "confidence": 1.0
+    },
+    "iban": {
+      "value": "DE19 1234 1234 1234 1234 12",
+      "confidence": 1.0
+    },
+    "filename": "fb9da8e4-97.jpg"
+  },
+  {
+    "company_name": {
+      "value": "pixa",
+      "confidence": 0.95
+    },
+    "invoice_number": {
+      "value": "1234",
+      "confidence": 0.99
+    },
+    "invoice_date": {
+      "value": "2020-01-01",
+      "confidence": 0.99
+    },
+    "due_date": {
+      "value": "2020-01-14",
+      "confidence": 0.99
+    },
+    "total_amount": {
+      "value": 3653.3,
+      "confidence": 0.99
+    },
+    "bank_name": {
+      "value": "Musterbank",
+      "confidence": 0.99
+    },
+    "iban": {
+      "value": "DE07123412341234123412",
+      "confidence": 0.99
+    },
+    "filename": "0008b23c-99.jpg"
+  }
+]

@@ -1,0 +1,697 @@
+[
+  {
+    "company_name": "Cheung",
+    "company_address": "12345Freiberg",
+    "vendor_name": "54321Munster",
+    "phone_number": "Tel:01235678-90",
+    "invoice_date": "Datum:29.07.2030",
+    "total_amount": "Gesamtbetrag",
+    "iban": "AAICEXSS7POUANSIAO"
+  },
+  {
+    "company_name": "Sushi-Bar",
+    "phone_number": "5678-90",
+    "vendor_name": "Main",
+    "total_amount": "EC-Karte)",
+    "company_address": "K8ln",
+    "iban": "90"
+  },
+  {
+    "company_address": "12345Musterstadt",
+    "invoice_date": "11.05.2017",
+    "vendor_name": "Deutschland",
+    "phone_number": "Tel:03012345678",
+    "total_amount": "Rechnungsbetrag",
+    "iban": "12"
+  },
+  {
+    "company_name": "rechnungsprogramm",
+    "vendor_name": "ID]",
+    "invoice_date": "21.07.2021",
+    "total_amount": "595,00\u20ac"
+  },
+  {
+    "invoice_date": "12.07.2021",
+    "vendor_name": "[UmsatzteuerID)",
+    "total_amount": "2.465,68\u20ac"
+  },
+  {
+    "phone_number": "+49213140529159",
+    "company_name": "easybill\"",
+    "vendor_name": "Germany",
+    "invoice_date": "05.02.2020",
+    "iban": "944500"
+  },
+  {
+    "company_name": "recmungsprogramm",
+    "vendor_name": "[UmsatzteuerID)",
+    "invoice_date": "17.07.2021",
+    "total_amount": "\u20ac"
+  },
+  {
+    "company_name": "rechnungsprogramm",
+    "vendor_name": "[Telefon]",
+    "total_amount": "1.820,70\u20ac"
+  },
+  {
+    "company_name": "logoipsum\"",
+    "company_address": "Deutschland",
+    "vendor_name": "Deutschland",
+    "total_amount": "3.178,49\u20ac",
+    "phone_number": "+49123.456789",
+    "iban": "1234124124124122-BICMUSTDEDOXX"
+  },
+  {
+    "company_name": "Logo",
+    "company_address": "77340",
+    "phone_number": "936-891-2735",
+    "vendor_name": "916-934-7312",
+    "total_amount": "\u20ac2675,00"
+  },
+  {
+    "invoice_date": "Oktober",
+    "company_name": "LDL",
+    "company_address": "Bremen",
+    "total_amount": "20,21"
+  },
+  {
+    "invoice_date": "Oktober",
+    "company_name": "LADL",
+    "company_address": "Bremen",
+    "total_amount": "37,16"
+  },
+  {
+    "invoice_date": "November",
+    "company_name": "LDL",
+    "company_address": "Bremen",
+    "total_amount": "zahlen"
+  },
+  {
+    "invoice_date": "13.11.21",
+    "company_name": "LADL",
+    "company_address": "Bremen",
+    "total_amount": "zahlen"
+  },
+  {
+    "invoice_date": "November",
+    "company_name": "LDL",
+    "company_address": "Bremen",
+    "total_amount": "23,64"
+  },
+  {
+    "invoice_date": "27.11.21",
+    "company_name": "LDL",
+    "company_address": "Bremen",
+    "total_amount": "zahlen"
+  },
+  {
+    "invoice_date": "Dezember",
+    "company_name": "LADL",
+    "company_address": "Bremen",
+    "total_amount": "26,96"
+  },
+  {
+    "company_address": "Stadt",
+    "vendor_name": "Stadt",
+    "invoice_date": "2023",
+    "total_amount": "Gesamtsumme:",
+    "phone_number": "1234-56"
+  },
+  {
+    "invoice_date": "21.12.21",
+    "total_amount": "25,86",
+    "phone_number": "080054357587"
+  },
+  {
+    "company_name": "recmungsprogramm",
+    "vendor_name": "[UmsatzteuerID)",
+    "invoice_date": "16.07.2021",
+    "total_amount": "\u20ac"
+  },
+  {
+    "company_name": "INC.",
+    "vendor_name": "Munchen",
+    "invoice_date": "12-04-2018",
+    "total_amount": "Gesamt"
+  },
+  {
+    "company_name": "Name",
+    "company_address": "el-Nummer",
+    "invoice_date": "01.01.2018",
+    "vendor_name": "PLZOrt",
+    "total_amount": "RechnungsDetrag",
+    "iban": "DEXXXXXXXXXXXXXK"
+  },
+  {
+    "company_name": "recmungsprogramm",
+    "vendor_name": "[UmsatzteuerID)",
+    "invoice_date": "16.07.2021",
+    "total_amount": "\u20ac"
+  },
+  {
+    "company_name": "INC.",
+    "vendor_name": "Munchen",
+    "invoice_date": "12-04-2018"
+  },
+  {
+    "company_name": "Name",
+    "total_amount": "RechnungsDetrag",
+    "iban": "DEXXXXXXXXXXXXXK"
+  },
+  {
+    "company_name": "INC.",
+    "vendor_name": "Munchen",
+    "invoice_date": "2018-0006",
+    "total_amount": "Gesamt"
+  },
+  {
+    "company_name": "Group",
+    "vendor_name": "Stadt",
+    "total_amount": "BETRAG",
+    "company_address": "Stadt",
+    "phone_number": "1234-56",
+    "iban": "45678901"
+  },
+  {
+    "company_name": "LANGE",
+    "phone_number": "0123.45678901",
+    "company_address": "Stadt",
+    "vendor_name": "Stadt",
+    "invoice_date": "25.10.2030",
+    "total_amount": "3.991,10\u20ac"
+  },
+  {
+    "company_name": "01235678-90",
+    "company_address": "Rosenheim",
+    "vendor_name": "Dresden",
+    "invoice_date": "02.02.2030",
+    "total_amount": "Gesamtbetrag"
+  },
+  {
+    "company_name": "RICHTER",
+    "vendor_name": "Glasstadt",
+    "invoice_date": "26.01.2030",
+    "total_amount": "Gesamtbetrag\"*",
+    "company_address": "Freiberg",
+    "iban": "BIC:"
+  },
+  {
+    "company_name": "sevDesk",
+    "company_address": "ofenburg",
+    "invoice_date": "25.02.2018",
+    "vendor_name": "Musterstadt",
+    "total_amount": "Rechnungsbetrag",
+    "phone_number": "Ta-C7RI-SAa7o-0",
+    "iban": "123456780123456789"
+  },
+  {
+    "company_name": "KLUGER",
+    "company_address": "Brahms",
+    "vendor_name": "Stadt",
+    "total_amount": "2142,00\u20ac",
+    "iban": "45678901"
+  },
+  {
+    "company_name": "COMPANY",
+    "vendor_name": "Wien",
+    "total_amount": "Gesamtbetrag",
+    "iban": "A1B83745800013839",
+    "phone_number": "013162070586"
+  },
+  {
+    "company_address": "Munchen",
+    "vendor_name": "Telefonnummer",
+    "invoice_date": "12/12/2020",
+    "total_amount": "0,00\u20ac"
+  },
+  {
+    "company_name": "LDL",
+    "company_address": "Bremen",
+    "total_amount": "23,26",
+    "invoice_date": "21.12.21",
+    "phone_number": "7587"
+  },
+  {
+    "company_name": "linm",
+    "company_address": "Erkrath",
+    "phone_number": "01235678-90",
+    "vendor_name": "Bremen",
+    "invoice_date": "18.11.2030",
+    "total_amount": "*0123)",
+    "iban": "78901234567890"
+  },
+  {
+    "company_address": "Ahlen",
+    "phone_number": "Tel.:01235678-90",
+    "invoice_date": "22.05.2030",
+    "total_amount": "Gesamtbetrag",
+    "iban": "123456"
+  },
+  {
+    "company_address": "12345llarzburg",
+    "vendor_name": "Hamburg",
+    "company_name": "Bernthaler",
+    "invoice_date": "012/34567",
+    "total_amount": "Gesamtbetrag",
+    "phone_number": "123456780",
+    "iban": "90"
+  },
+  {
+    "company_name": "gmbh",
+    "company_address": "Germany",
+    "phone_number": "+49-40-60940789-0",
+    "vendor_name": "Hamburg",
+    "invoice_date": "12.09.19",
+    "total_amount": "333,20\u20ac"
+  },
+  {
+    "company_name": "Shodwe",
+    "company_address": "Stadt",
+    "phone_number": "(0221)1234-56",
+    "vendor_name": "Stadt",
+    "total_amount": "Summe"
+  },
+  {
+    "company_name": "Mustermann",
+    "phone_number": "122132123132",
+    "company_address": "Wien",
+    "vendor_name": "Wien",
+    "invoice_date": "01.10.201722:19",
+    "total_amount": "Rechnungspetrag",
+    "iban": "A123401201203102301"
+  },
+  {
+    "company_address": "TobiasJung",
+    "invoice_date": "2025",
+    "phone_number": "01234567890",
+    "total_amount": "492\u20ac"
+  },
+  {
+    "company_address": "Welten",
+    "phone_number": "5678-90",
+    "vendor_name": "Munster",
+    "invoice_date": "09.02.2030",
+    "total_amount": "GESAMTBETRAG\"",
+    "iban": "1234567890"
+  },
+  {
+    "company_name": "Vogelstetter",
+    "phone_number": "(0221)1234-56",
+    "company_address": "Stadt",
+    "vendor_name": "Stadt",
+    "invoice_date": "25.10.2030",
+    "total_amount": "3.991,10\u20ac"
+  },
+  {
+    "invoice_date": "12.12.2020",
+    "total_amount": "0,00\u20ac",
+    "company_address": "Musterhausen:",
+    "phone_number": "123456"
+  },
+  {
+    "invoice_date": "23.08.2009",
+    "vendor_name": "Musterhheim",
+    "total_amount": "EUR",
+    "phone_number": "9876431"
+  },
+  {
+    "company_address": "Frankfurt",
+    "phone_number": "0049123456789",
+    "iban": "DE20000111122223332103",
+    "company_name": "GmbH",
+    "invoice_date": "01.04.2021",
+    "total_amount": "USt"
+  },
+  {
+    "company_name": "GmbH",
+    "company_address": "Musterhausen",
+    "phone_number": "05555-55555555",
+    "vendor_name": "Musterort",
+    "invoice_date": "01.01.2099",
+    "total_amount": "Gesammtbetrag:",
+    "iban": "55"
+  },
+  {
+    "company_name": "GmbH",
+    "invoice_date": "07.12.2021",
+    "phone_number": "0691213456789",
+    "vendor_name": "Deutschland",
+    "total_amount": "847,92\u20ac",
+    "company_address": "Muster"
+  },
+  {
+    "company_name": "GmbH",
+    "company_address": "Deutschland",
+    "invoice_date": "07.12.2021",
+    "total_amount": "3.219,29\u20ac",
+    "phone_number": "0691213456789-"
+  },
+  {
+    "company_name": "Schmidt",
+    "company_address": "Muster",
+    "vendor_name": "Deutschland",
+    "invoice_date": "08.12.2021",
+    "total_amount": "301,07\u20ac",
+    "phone_number": "0691213456789"
+  },
+  {
+    "company_address": "Musterstadt",
+    "vendor_name": "Musterstadt",
+    "invoice_date": "01.01.2022",
+    "total_amount": "Gesamtbetrag",
+    "iban": "123456789"
+  },
+  {
+    "company_name": "Deutschland",
+    "iban": "720210400253",
+    "company_address": "Deutschland",
+    "invoice_date": "17-03-2023",
+    "total_amount": "329,85",
+    "phone_number": "8552214400"
+  },
+  {
+    "company_name": "Reilel",
+    "company_address": "Kiel",
+    "phone_number": "01235678-90",
+    "vendor_name": "Karlsruhe",
+    "invoice_date": "16.07.2030",
+    "total_amount": "1832,60\u20ac",
+    "iban": "567890"
+  },
+  {
+    "company_name": "Firmenlogo",
+    "vendor_name": "(optional)",
+    "invoice_date": "1/.05.2021",
+    "total_amount": "Gesamtsumme"
+  },
+  {
+    "company_address": "Wasser",
+    "phone_number": "1234567",
+    "vendor_name": "Berg",
+    "invoice_date": "22.06.2021",
+    "total_amount": "1620,00",
+    "iban": "DE2341124098234:"
+  },
+  {
+    "company_name": "Firma",
+    "company_address": "Deutschland",
+    "vendor_name": "Deutschland",
+    "invoice_date": "23.06.2021",
+    "phone_number": "1234567",
+    "iban": "DE2341124098234"
+  },
+  {
+    "company_name": "NAME",
+    "company_address": "Ingoistadt",
+    "vendor_name": "LieferStadt",
+    "invoice_date": "29.03.2021",
+    "total_amount": "\u20ac2.284,80",
+    "phone_number": "0049123456789",
+    "iban": "DE20000111122223332105"
+  },
+  {
+    "company_name": "<Firmenname>",
+    "company_address": "<Telefon>",
+    "invoice_date": "07.08.2019"
+  },
+  {
+    "company_name": "PHOTOGRAPIY",
+    "company_address": "Nenkirchen",
+    "vendor_name": "Munchen",
+    "invoice_date": "27.01.2019",
+    "total_amount": "754,03\u20ac",
+    "iban": "082501057048X4"
+  },
+  {
+    "company_name": "FOTOSTUDIO",
+    "invoice_date": "01/01/21",
+    "total_amount": "\u20ac",
+    "company_address": "(0221).9876-56",
+    "iban": "DE41500105170123456789"
+  },
+  {
+    "company_address": "9s.Neustd,stemenoe",
+    "invoice_date": "2025",
+    "total_amount": "2800\u20ac",
+    "vendor_name": "elo@realygreabsle.com"
+  },
+  {
+    "vendor_name": "eloerealygleabsie.con",
+    "invoice_date": "2025",
+    "total_amount": "2800\u20ac"
+  },
+  {
+    "company_address": "395,Neustad,Bremen,DE",
+    "invoice_date": "2025",
+    "total_amount": "\u20ac",
+    "vendor_name": "hello@reallygreatsite.com"
+  },
+  {
+    "company_name": "Fotostudio",
+    "invoice_date": "01/01/21",
+    "company_address": "Musterstadt",
+    "total_amount": "73,78\u20ac",
+    "phone_number": "9876-56",
+    "iban": "DE4500057072456789"
+  },
+  {
+    "company_name": "Shodwe",
+    "phone_number": "123-456-7890",
+    "vendor_name": "12345",
+    "total_amount": "C"
+  },
+  {
+    "invoice_date": "2025",
+    "vendor_name": "12345",
+    "total_amount": "2750\u20ac",
+    "phone_number": "+123-456-7890"
+  },
+  {
+    "invoice_date": "2025",
+    "vendor_name": "USA31036",
+    "total_amount": "2750\u20ac",
+    "phone_number": "+123-456-7890"
+  },
+  {
+    "company_name": "RICHTER",
+    "company_address": "Freiberg",
+    "phone_number": "5678-90",
+    "vendor_name": "Glasstadt",
+    "invoice_date": "26.01.2030",
+    "total_amount": "Gesamtbetrag\"*"
+  },
+  {
+    "vendor_name": "City,",
+    "invoice_date": "16",
+    "total_amount": "2750\u20ac",
+    "phone_number": "+123-456-7890"
+  },
+  {
+    "company_name": "FOTOSTUDIO",
+    "invoice_date": "01/01/21",
+    "vendor_name": "MITTERSTADT",
+    "total_amount": "\u20ac",
+    "company_address": "MUSTERSTADT",
+    "phone_number": "(0221).9876-56",
+    "iban": "DE41500105170123456789"
+  },
+  {
+    "company_name": "Innenausbau",
+    "vendor_name": "Passauf",
+    "invoice_date": "24.01.2018",
+    "total_amount": "-476,00",
+    "iban": "345678",
+    "phone_number": "31051254579"
+  },
+  {
+    "vendor_name": "2026",
+    "total_amount": "492\u20ac",
+    "phone_number": "01234567890"
+  },
+  {
+    "invoice_date": "01.06.2015",
+    "total_amount": "RECHNUNGSBETRAG"
+  },
+  {
+    "company_name": "vordrucke.de",
+    "company_address": "Elgensad:",
+    "vendor_name": "Musterstadt",
+    "total_amount": "2.38\u20ac",
+    "phone_number": "TeL:012345678910"
+  },
+  {
+    "company_name": "GmbH",
+    "company_address": "Munchen",
+    "phone_number": "0171/23456789",
+    "vendor_name": "Berlin",
+    "total_amount": "Gesamtbetrag",
+    "invoice_date": "017/211323",
+    "iban": "901234"
+  },
+  {
+    "company_name": "Nadja",
+    "company_address": "Dornbirn",
+    "phone_number": "+436503217788",
+    "invoice_date": "02.10.2018",
+    "total_amount": "EUR"
+  },
+  {
+    "company_name": "Grun",
+    "vendor_name": "Bergheim",
+    "company_address": "Berlin",
+    "phone_number": "12345601",
+    "invoice_date": "02.11.2022",
+    "total_amount": "3.711,61\u20ac",
+    "iban": "1234367890"
+  },
+  {
+    "company_name": "GmbH",
+    "vendor_name": "Berlin",
+    "total_amount": "\u20ac2.991,66",
+    "company_address": "Ingolstadt",
+    "phone_number": "0049123456789",
+    "iban": "DE20000111122223332103"
+  },
+  {
+    "phone_number": "0049123456789",
+    "iban": "DE20000111122223332103",
+    "company_name": "HERE",
+    "vendor_name": "Kiel",
+    "invoice_date": "29.03.2021",
+    "total_amount": "USt"
+  },
+  {
+    "company_name": "SLOGAN",
+    "vendor_name": "Munchen",
+    "invoice_date": "29.03.2021",
+    "total_amount": "5.712,00",
+    "phone_number": "0049123456789",
+    "iban": "DE20000111122223332103"
+  },
+  {
+    "company_name": "Here",
+    "vendor_name": "Munchen",
+    "invoice_date": "29.03.2021",
+    "total_amount": "USt",
+    "phone_number": "0049123456789",
+    "iban": "DE20000111122223332103"
+  },
+  {
+    "company_address": "Zuhause",
+    "phone_number": "+49(0176/12334456",
+    "invoice_date": "01.05.2020",
+    "company_name": "AG",
+    "vendor_name": "Horsthausen",
+    "total_amount": "1670,80\u20ac",
+    "iban": "DE223697129047300900"
+  },
+  {
+    "company_address": "Musterstadt",
+    "company_name": "GmbH",
+    "vendor_name": "Kastanienstadt",
+    "invoice_date": "24.09.2022",
+    "total_amount": "100,00EUR"
+  },
+  {
+    "company_name": "Beispielfirma",
+    "company_address": "Musterstadt",
+    "vendor_name": "Musterdorf",
+    "invoice_date": "IT.MM.JJJJ",
+    "total_amount": "130,86\u20ac",
+    "iban": "061234507890870542100"
+  },
+  {
+    "company_name": "Parts",
+    "company_address": "Berlin",
+    "vendor_name": "Berlin",
+    "invoice_date": "29/01/2019",
+    "total_amount": "26.41",
+    "iban": "5678"
+  },
+  {
+    "company_name": "Parts",
+    "company_address": "Berlin",
+    "vendor_name": "Berlin",
+    "total_amount": "165.41\u20ac",
+    "invoice_date": "29/01/2019",
+    "iban": "5678"
+  },
+  {
+    "company_name": "Parts",
+    "company_address": "Berlin",
+    "vendor_name": "Berlin",
+    "total_amount": "165.416",
+    "invoice_date": "29/01/2019",
+    "iban": "12345678"
+  },
+  {
+    "company_name": "Parts",
+    "vendor_name": "Elversberg",
+    "total_amount": "165.41\u20ac",
+    "iban": "5678"
+  },
+  {
+    "company_name": "Parts",
+    "company_address": "Berlin",
+    "vendor_name": "Berlin",
+    "invoice_date": "29/01/2019",
+    "total_amount": "165.41\u20ac",
+    "iban": "5678"
+  },
+  {
+    "company_name": "Schmidt",
+    "company_address": "Berlin",
+    "vendor_name": "Berlin",
+    "invoice_date": "29/01/2019",
+    "total_amount": "165.41\u20ac",
+    "iban": "5678"
+  },
+  {
+    "company_address": "Stadt",
+    "vendor_name": "Stadt",
+    "invoice_date": "10.01.2024",
+    "total_amount": "Gesamtpreis",
+    "company_name": "Partners",
+    "phone_number": "(0221)1234-56"
+  },
+  {
+    "company_name": "PARTS",
+    "company_address": "73111BERLIN",
+    "vendor_name": "Elversberg",
+    "invoice_date": "29/01/2019",
+    "total_amount": "165.41\u20ac",
+    "iban": "1234.5678"
+  },
+  {
+    "company_name": "Parts",
+    "company_address": "Berlin",
+    "invoice_date": "29/01/2019",
+    "vendor_name": "Berlin",
+    "total_amount": "\u20ac",
+    "iban": "5678"
+  },
+  {
+    "company_name": "Firmenlogo",
+    "company_address": "Musterstadt",
+    "vendor_name": "(optional)",
+    "invoice_date": "01.01.2020",
+    "total_amount": "760,41C"
+  },
+  {
+    "company_name": "Musterfirma",
+    "company_address": "Deutschland",
+    "vendor_name": "Deutschland",
+    "invoice_date": "7.9.2020",
+    "total_amount": "1.339,90\u20ac",
+    "iban": "123412",
+    "phone_number": "TeL.:03012345678"
+  },
+  {
+    "company_name": "pixa",
+    "vendor_name": "Muster",
+    "phone_number": "456789",
+    "invoice_date": "01.01.2020",
+    "total_amount": "3653,30\u20ac",
+    "iban": "0E072341723423412412"
+  }
+]
